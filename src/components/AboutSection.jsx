@@ -51,8 +51,7 @@ export const AboutSection = () => {
                 <div className="text-left">
                   <h4 className="font-semibold text-lg"> Web Development</h4>
                   <p className="text-muted-foreground">
-                    Creating responsive websites and web applications with
-                    modern frameworks.
+                  Building secure and responsive web applications using React, Node.js, and MongoDB. I focus on real-world functionality and clean code.
                   </p>
                 </div>
               </div>
@@ -63,10 +62,9 @@ export const AboutSection = () => {
                   <User className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">UI/UX Design</h4>
+                  <h4 className="font-semibold text-lg">Logic & Fixing Stuff</h4>
                   <p className="text-muted-foreground">
-                    Designing intuitive user interfaces and seamless user
-                    experiences.
+                  Breaking features into logic, solving bugs, and making systems actually work.
                   </p>
                 </div>
               </div>
@@ -78,10 +76,9 @@ export const AboutSection = () => {
                 </div>
 
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Project Management</h4>
+                  <h4 className="font-semibold text-lg">Project Handling</h4>
                   <p className="text-muted-foreground">
-                    Leading projects from conception to completion with agile
-                    methodologies.
+                  From planning features to tracking progress and deadlines — I keep things moving. I balance dev tasks, debug like a pro, and keep an eye on the bigger picture while shipping.
                   </p>
                 </div>
               </div>
